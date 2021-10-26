@@ -82,6 +82,36 @@ const app = {
             path: './assets/songs/y2mate.com - Trung Tự  Mẹ  Xa Nhà  BFF Remix Lofi Ver    Dự Án Lofi 02 .mp3',
             image: './assets/img/me.jpg'
         },
+        {
+            name: 'Vũ hội hoá trang',
+            singer: ' Ngận Mỹ Vị',
+            path: './assets/songs/y2mate.com - Vietsub Vũ hội hoá trang  Ngận Mỹ Vị   假面舞会  很美味.mp3',
+            image: './assets/img/vuhoihoatrang.jpg'
+        },
+        {
+            name: 'Ai Đưa Em Về Remix',
+            singer: 'Tia ft Lê Thiện Hiếu, Cukak ',
+            path: './assets/songs/y2mate.com - Ai Đưa Em Về  Tia ft Lê Thiện HiếuCukak Remix Audio Lyrics Video.mp3',
+            image: './assets/img/aiduaemve.jpg'
+        },
+        {
+            name: 'Tiệc Trà Sao灰澈',
+            singer: '星茶会',
+            path: './assets/songs/y2mate.com - Trung Tự  Mẹ  Xa Nhà  BFF Remix Lofi Ver    Dự Án Lofi 02 .mp3',
+            image: './assets/img/tiệctrasao.jpg'
+        },
+        {
+            name: 'Em Là Hoàng Hôn Remix',
+            singer: 'Vang x CLoud 5',
+            path: './assets/songs/y2mate.com - Em Là Hoàng Hôn Frexs Remix  Vang x CLoud 5  Má Của Em Tựa Hồng Cành Thắm Remix.mp3',
+            image: './assets/img/emlahoanghon.jpg'
+        },
+        {
+            name: 'Như Một Người Dưng Remix ',
+            singer: 'Nguyễn Thạc Bảo Ngọc',
+            path: './assets/songs/y2mate.com - Trung Tự  Mẹ  Xa Nhà  BFF Remix Lofi Ver    Dự Án Lofi 02 .mp3',
+            image: './assets/img/nhumotnguoidung.jpg'
+        },
             ],
     setConfig: function (key, value) {
         this.config[key] = value;
