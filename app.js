@@ -97,7 +97,7 @@ const app = {
         {
             name: 'Tiệc Trà Sao灰澈',
             singer: '星茶会',
-            path: './assets/songs/y2mate.com - Trung Tự  Mẹ  Xa Nhà  BFF Remix Lofi Ver    Dự Án Lofi 02 .mp3',
+            path: './assets/songs/y2mate.com - 星茶会  Tiệc Trà Sao灰澈  Nhạc Douyin.mp3',
             image: './assets/img/tiệctrasao.jpg'
         },
         {
@@ -109,7 +109,7 @@ const app = {
         {
             name: 'Như Một Người Dưng Remix ',
             singer: 'Nguyễn Thạc Bảo Ngọc',
-            path: './assets/songs/y2mate.com - Trung Tự  Mẹ  Xa Nhà  BFF Remix Lofi Ver    Dự Án Lofi 02 .mp3',
+            path: './assets/songs/y2mate.com - Như Một Người Dưng Remix  từng ngày em vẫn bên anh thế nhưng anh vương vấn điều gì Hot TikTok 2021.mp3',
             image: './assets/img/nhumotnguoidung.jpg'
         },
             ],
