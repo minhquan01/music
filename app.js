@@ -112,6 +112,36 @@ const app = {
             path: './assets/songs/y2mate.com - Như Một Người Dưng Remix  từng ngày em vẫn bên anh thế nhưng anh vương vấn điều gì Hot TikTok 2021.mp3',
             image: './assets/img/nhumotnguoidung.jpg'
         },
+        {
+            name: 'Teen Vọng Cổ Remix TikTok',
+            singer: 'Umie x Teddy x meChill',
+            path: './assets/songs/y2mate.com - Teen Vọng Cổ Remix TikTok Umie x Teddy x meChill.mp3',
+            image: './assets/img/teenvongco.jpg'
+        },
+        {
+            name: 'Không Bằng Remix ',
+            singer: 'Na - RIN Music',
+            path: './assets/songs/y2mate.com - Nói Với Em Một Lời Trước Khi Xa Rời  Không Bằng RIN Music Remix  Na.mp3',
+            image: './assets/img/khongbang.jpg'
+        },
+        {
+            name: 'Mắt Nice Cha Cha Tune ',
+            singer: ' Ssahita ft Duy LionCukak Remix',
+            path: './assets/songs/y2mate.com - Mắt Nice Cha Cha Tune  Ssahita ft Duy LionCukak Remix Audio Lyrics Video.mp3',
+            image: './assets/img/matnai.jpg'
+        },
+        {
+            name: 'Mắt Nice Cha Cha Tune ',
+            singer: ' Ssahita ft Duy LionCukak Remix',
+            path: './assets/songs/y2mate.com - Mắt Nice Cha Cha Tune  Ssahita ft Duy LionCukak Remix Audio Lyrics Video.mp3',
+            image: './assets/img/matnai.jpg'
+        },
+        {
+            name: ' Phượng Buồn',
+            singer: 'H2K x Sli Petey',
+            path: './assets/songs/y2mate.com - Phượng Buồn  H2K x Sli Petey by H2K  VN MIXCLOUD.mp3',
+            image: './assets/img/phuongbuon.jpg'
+        },
             ],
     setConfig: function (key, value) {
         this.config[key] = value;
