@@ -131,12 +131,6 @@ const app = {
             image: './assets/img/matnai.jpg'
         },
         {
-            name: 'Mắt Nice Cha Cha Tune ',
-            singer: ' Ssahita ft Duy LionCukak Remix',
-            path: './assets/songs/y2mate.com - Mắt Nice Cha Cha Tune  Ssahita ft Duy LionCukak Remix Audio Lyrics Video.mp3',
-            image: './assets/img/matnai.jpg'
-        },
-        {
             name: ' Phượng Buồn',
             singer: 'H2K x Sli Petey',
             path: './assets/songs/y2mate.com - Phượng Buồn  H2K x Sli Petey by H2K  VN MIXCLOUD.mp3',
